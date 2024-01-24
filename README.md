@@ -1,4 +1,4 @@
 ## Hello 👋
 
-Voici mon Portfolio = ➡️ 
+Voici mon Portfolio ➡️ 
 [Leane-Rodriguez](https://leane-rodriguez.vercel.app/)
